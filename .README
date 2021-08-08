@@ -1,0 +1,14 @@
+MainPage -> index.php
+
+HomePage -> front-page.php
+
+AnotherPage -> page.php
+AnOtherSidebar -> sidebar.php
+
+AnotherFullPage -> page-full-width.php
+BlogPage -> home.php
+
+PostPage -> single.php
+PostSidebar -> sidebar-blog.php
+
+CategoryPage -> archive.php
